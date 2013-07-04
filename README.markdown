@@ -1,0 +1,1 @@
+My Java EE 7 exercise project.
